@@ -1,0 +1,201 @@
+/*
+    Copyright (c) Botan-Syndyrbay. All rights reserved
+*/
+
+body {
+    /*font-size: calc(24px + 16 * ((-15vw - 320px) / (1400 - 320)));*/
+    font-family: sans-serif;
+    background-color: rgb(72, 175, 201);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#allcontent {
+    overflow-x: hidden;
+    max-width: 1400px;
+}
+
+#home {
+    max-width: 700px;
+}
+
+hr {
+    width: 700px;
+    margin-right: 400px;
+    height: -1px;
+}
+
+img {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+#brown {
+    margin-right: 340px;
+    text-align: center;
+    color: #0000EE;
+}
+
+#toleft {
+    margin-left: 300px;
+}
+
+#part {
+    margin-top: -10px;
+    font-size: 105%;
+    font-style: italic;
+}
+
+#first {
+    margin-top: 20px;
+    margin-left: 300px;
+}
+
+p {
+    line-height: 1.5em;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 90%;
+}
+
+.right {
+    margin-left: 300px;
+}
+
+.ssylka {
+    margin-left: 230px;
+    margin-top: -35px;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+#sylka {
+    margin-left: 520px;
+    margin-top: -35px;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+#two {
+    margin-right: 345px;
+}
+
+#ura {
+    margin-left: -330px;
+    text-align: center; line-height: 1.5em;
+}
+
+#three {
+    margin-top: -0.1px;
+    font-size: xx-large;
+    margin-right: 350px;
+}
+
+#qwe {
+    text-align: left;
+    margin-right: 120px;
+    margin-top: -5px;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+#jsx {
+    line-height: 1.5em;
+    margin-left: 10px;
+}
+
+#videos {
+    line-height: 4em;
+    margin-top: 20px;
+    margin-left: 410px;
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    height: 80px;
+    color: rgba(255, 255, 255, 0.61);
+    max-width: 1310px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.808);
+    margin-top: 40px;
+}
+
+#images {
+    margin-top: -65px;
+}
+
+#last {
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 70%;
+}
+
+#inf {
+    font-weight: bold;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: 110%;
+}
+
+/* Button */
+.but {
+    user-select: none;
+    text-decoration: none;
+    color: #fff;
+    margin-top: -10px;
+    margin-left: 285px;
+    padding: 15px;
+    width: 90px;
+    border-radius: 25px;
+    border: white 2px solid;
+    background-color: rgb(11, 175, 25);
+    font-size: 105%;
+    font-weight: bold;
+    transition: color 0.3s, border 0.3s, background-color 0.3s ease-out;
+}
+
+.but:hover, .but:active {
+    user-select: none;
+    color: rgb(11, 175, 25);
+    border: rgb(11, 175, 25) 2px solid;
+    background-color: #fff;
+    transition: color 0.3s, border 0.3s, background-color 0.3s ease-in;
+}
+
+.telephone {
+    margin-left: 225px;
+    margin-top: 40px;
+}
+
+#telephon {
+    margin-top: 40px;
+    margin-left: 220px;
+}
+
+.zagolov {
+    margin-left: 200px;
+}
+
+#zag {
+    margin-left: 260px;
+}
+
+/*//////////////////////////////////////////////////////////////////////*/
+
+.vid {
+    margin-left: -35px;
+    width: 560px;
+    height: 300px;
+}
+
+#copy {
+    margin-top: 55px;
+    user-select: none;
+    font-size: 80%;
+}

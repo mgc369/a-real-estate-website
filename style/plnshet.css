@@ -1,0 +1,213 @@
+body {
+    padding-top: -5px;
+    height: 100%;
+    overflow-x: hidden;
+    font-family: sans-serif;
+    background-color: rgb(79, 152, 170);
+}
+
+#allcontent {
+    margin-top: -15px;
+    width: 480px;
+    overflow-x: hidden;
+    font-size: 14px;
+}
+
+#home {
+    max-width: 500px;
+}
+
+img {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+#brown {
+    display: inline;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 90%;
+    margin-left: 15px;
+    text-align: center;
+    color: #0000EE;
+}
+
+#first {
+    margin-top: 20px;
+    margin-left: 1px;
+}
+
+p {
+    line-height: 1.5em;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 90%;
+}
+
+#me {
+    display: inline;
+    font-size: 90%;
+    margin-right: 330px;
+}
+
+#two {
+    margin-bottom: 100px;
+    display: inline;
+    text-align: center;
+    margin-left: 50px;
+}
+
+#three {
+    margin-top: -0.1px;
+    font-size: xx-large;
+    margin-right: 350px;
+}
+
+#ura {
+    margin-left: 10px;
+    text-align: center; line-height: 1.5em;
+}
+
+#qwe {
+    text-align: left;
+    margin-right: 120px;
+    margin-top: -5px;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+hr {
+    width: 500px;
+    margin-right: 320px;
+}
+
+#jsx {
+    font-weight: bold;
+    margin-left: -28px;
+}
+
+#videos {
+    line-height: 4em;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    height: 50px;
+    color: rgba(255, 255, 255, 0.61);
+    max-width: 450px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.808);
+    margin-top: 40px;
+}
+
+#images {
+    margin-top: -45px;
+}
+
+.parent {
+    margin-left: 25px;
+}
+
+#last {
+    display: grid;
+    grid-template-columns: 120%;
+    font-size: 90%;
+    margin-left: -20px;
+}
+
+.right {
+    margin-left: 1px;
+}
+
+.vid {
+    margin-left: -45px;
+    width: 400px;
+    height: 220px;
+}
+
+#otzyv {
+    margin-left: 14px;
+    font-size: 125%;
+}
+
+.inftwo {
+    margin-left: -30px;
+}
+/**/
+#toleft {
+    margin-left: 20px;
+}
+
+/*button*/
+.but {
+    user-select: none;
+    text-decoration: none;
+    color: #fff;
+    margin-top: -10px;
+    margin-left: 170px;
+    padding: 15px;
+    width: 90px;
+    border-radius: 25px;
+    border: white 2px solid;
+    background-color: rgb(11, 175, 25);
+    font-size: 105%;
+    font-weight: bold;
+    transition: color 0.3s, border 0.3s, background-color 0.3s ease-out;
+}
+
+.but:hover, .but:active {
+    user-select: none;
+    color: rgb(11, 175, 25);
+    border: rgb(11, 175, 25) 2px solid;
+    background-color: #fff;
+    transition: color 0.3s, border 0.3s, background-color 0.3s ease-in;
+}
+
+#ura {
+    margin-left: -20px;
+    text-align: center; line-height: 1.5em;
+}
+
+.telephone {
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+#telephon {
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+/**/
+
+.zagolov {
+    margin-left: 130px;
+}
+
+#zag {
+    margin-left: 180px;
+}
+
+#inf {
+    width: 300px;
+    font-size: 95%;
+    display: grid;
+    margin-left: 10px;
+    grid-template-columns: 150%;
+}
+
+#copy {
+    margin-top: 35px;
+    user-select: none;
+    font-size: 80%;
+}
+
+.logos {
+    width: 25px;
+}
