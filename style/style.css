@@ -6,7 +6,7 @@ body {
     /*font-size: calc(24px + 16 * ((-15vw - 320px) / (1400 - 320)));*/
     font-family: sans-serif;
     background-color: rgb(72, 175, 201);
-    display: grid;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
