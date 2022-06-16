@@ -1,5 +1,5 @@
-var data = new Date(2021, 1, 1);
-var datata = data.getFullYear();
+let dateq = new Date(2021, 1, 1);
+let finaldate = dateq.getFullYear();
 setTimeout(function () {
-    document.date.innerHTML = datata;
+    document.getElementById("date").innerHTML = finaldate;
 }, 3.154e+10);

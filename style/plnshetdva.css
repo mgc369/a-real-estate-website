@@ -3,6 +3,8 @@ body {
     overflow-x: hidden;
     font-family: sans-serif;
     background-color: rgb(79, 152, 170);
+    justify-content: center;
+    align-items: center;
 }
 
 #allcontent {
@@ -89,7 +91,7 @@ hr {
 #videos {
     line-height: 4em;
     margin-top: 20px;
-    margin-left: 90px;
+    margin-left: 50px;
 }
 
 footer {
@@ -97,7 +99,7 @@ footer {
     border-radius: 10px;
     height: 50px;
     color: rgba(255, 255, 255, 0.61);
-    min-width: 450px;
+    max-width: 450px !important;
     font-size: 70%;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.808);
@@ -130,8 +132,9 @@ footer {
 }
 
 #otzyv {
-    margin-left: 14px;
-    font-size: 125%;
+    margin-left: -5px;
+    line-height: normal;
+    font-size: 120%;
 }
 
 .inftwo {
@@ -142,12 +145,11 @@ footer {
     width: 300px;
     font-size: 95%;
     display: grid;
-    margin-left: 10px;
     grid-template-columns: 150%;
 }
 
 .zagolov {
-    margin-left: 120px;
+    margin-left: 80px;
 }
 
 #ura {
@@ -163,4 +165,16 @@ footer {
 
 .logos {
     width: 20px;
+}
+
+.but {
+    margin-left: 135px;
+}
+
+.telephone {
+    margin-left: 80px;
+}
+
+#telephon {
+    margin-left: 70px;
 }
